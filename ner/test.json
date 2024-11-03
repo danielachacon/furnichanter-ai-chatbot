@@ -1,0 +1,187 @@
+{
+    "examples": [
+      {
+        "id": "ca-1",
+        "content": "Schedule a calendar event in Teak oaks HOA about competitions happening tomorrow",
+        "annotations": [
+          {
+            "start": 0,
+            "end": 7,
+            "tag_name": "action"
+          },
+          {
+            "start": 11,
+            "end": 24,
+            "tag_name": "domain"
+          },
+          {
+            "start": 29,
+            "end": 41,
+            "tag_name": "hoa"
+          },
+          {
+            "start": 49,
+            "end": 70,
+            "tag_name": "event"
+          }
+        ]
+      },
+      {
+        "id": "ca-2",
+        "content": "Set up a reminder for the board meeting in Willow Creek HOA next Monday",
+        "annotations": [
+          {
+            "start": 0,
+            "end": 6,
+            "tag_name": "action"
+          },
+          {
+            "start": 18,
+            "end": 32,
+            "tag_name": "domain"
+          },
+          {
+            "start": 37,
+            "end": 52,
+            "tag_name": "hoa"
+          },
+          {
+            "start": 53,
+            "end": 67,
+            "tag_name": "event"
+          }
+        ]
+      },
+      {
+        "id": "ca-3",
+        "content": "Create a calendar entry for the community picnic in Maple Grove HOA this Saturday",
+        "annotations": [
+          {
+            "start": 0,
+            "end": 6,
+            "tag_name": "action"
+          },
+          {
+            "start": 16,
+            "end": 31,
+            "tag_name": "domain"
+          },
+          {
+            "start": 36,
+            "end": 50,
+            "tag_name": "hoa"
+          },
+          {
+            "start": 55,
+            "end": 68,
+            "tag_name": "event"
+          }
+        ]
+      },
+      {
+        "id": "ca-4",
+        "content": "Add a task to discuss safety measures at the next meeting in Oakwood HOA",
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "tag_name": "action"
+          },
+          {
+            "start": 21,
+            "end": 27,
+            "tag_name": "domain"
+          },
+          {
+            "start": 32,
+            "end": 41,
+            "tag_name": "hoa"
+          },
+          {
+            "start": 45,
+            "end": 67,
+            "tag_name": "event"
+          }
+        ]
+      },
+      {
+        "id": "ca-5",
+        "content": "Remind me to prepare the budget report for the finance committee in Cedar Ridge HOA",
+        "annotations": [
+          {
+            "start": 0,
+            "end": 6,
+            "tag_name": "action"
+          },
+          {
+            "start": 23,
+            "end": 39,
+            "tag_name": "domain"
+          },
+          {
+            "start": 44,
+            "end": 59,
+            "tag_name": "hoa"
+          },
+          {
+            "start": 63,
+            "end": 78,
+            "tag_name": "event"
+          }
+        ]
+      },
+      {
+        "id": "ca-6",
+        "content": "Plan a social event for the residents in Pine Valley HOA next month",
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "tag_name": "action"
+          },
+          {
+            "start": 21,
+            "end": 30,
+            "tag_name": "domain"
+          },
+          {
+            "start": 35,
+            "end": 48,
+            "tag_name": "hoa"
+          },
+          {
+            "start": 52,
+            "end": 63,
+            "tag_name": "event"
+          }
+        ]
+      },
+      {
+        "id": "ca-7",
+        "content": "Organize a workshop on gardening for residents in Greenfield HOA next week",
+        "annotations": [
+          {
+            "start": 0,
+            "end": 7,
+            "tag_name": "action"
+          },
+          {
+            "start": 24,
+            "end": 36,
+            "tag_name": "domain"
+          },
+          {
+            "start": 41,
+            "end": 55,
+            "tag_name": "hoa"
+          },
+          {
+            "start": 60,
+            "end": 73,
+            "tag_name": "event"
+          }
+        ]
+      }
+    ]
+  }
+  
