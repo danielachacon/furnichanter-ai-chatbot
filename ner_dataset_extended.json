@@ -1,0 +1,2420 @@
+[
+    {
+        "id": "furn-1",
+        "content": "I would like to buy a modern wooden dining table in oak color.",
+        "annotations": [
+            {
+                "start": 21,
+                "end": 26,
+                "tag_name": "type"
+            },
+            {
+                "start": 44,
+                "end": 46,
+                "tag_name": "color"
+            },
+            {
+                "start": 10,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            }
+        ]
+    },
+    {
+        "id": "furn-2",
+        "content": "I'm looking for a classic leather couch in burgundy color.",
+        "annotations": [
+            {
+                "start": 23,
+                "end": 28,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "type"
+            },
+            {
+                "start": 47,
+                "end": 55,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-3",
+        "content": "Can you find a Scandinavian pine bed in dark brown?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 31,
+                "tag_name": "style"
+            },
+            {
+                "start": 32,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 40,
+                "tag_name": "type"
+            },
+            {
+                "start": 44,
+                "end": 54,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-4",
+        "content": "I'm interested in a minimalist marble coffee table in white.",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            },
+            {
+                "start": 46,
+                "end": 51,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-5",
+        "content": "Please show me a rustic metal shelf in bronze color.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 40,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-6",
+        "content": "I'm looking for a modern glass lamp in teal color.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 43,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-7",
+        "content": "Can you suggest a Victorian oak bookcase in mahogany color?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 39,
+                "tag_name": "type"
+            },
+            {
+                "start": 43,
+                "end": 51,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-8",
+        "content": "I need a contemporary bamboo chair in olive green color.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 26,
+                "tag_name": "material"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 36,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-9",
+        "content": "Find me a vintage teak nightstand in walnut color.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 33,
+                "tag_name": "type"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-10",
+        "content": "I'm looking for a classic iron bed frame in cream color.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 40,
+                "tag_name": "type"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-11",
+        "content": "I'd like a industrial steel stool in black.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "type"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-12",
+        "content": "I'd like a bohemian rattan bench in brown.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 34,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-13",
+        "content": "I'd like a retro aluminum lamp in silver.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 14,
+                "tag_name": "style"
+            },
+            {
+                "start": 15,
+                "end": 23,
+                "tag_name": "material"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "tag_name": "type"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-14",
+        "content": "I'd like a minimalist concrete desk in gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 28,
+                "tag_name": "material"
+            },
+            {
+                "start": 29,
+                "end": 33,
+                "tag_name": "type"
+            },
+            {
+                "start": 37,
+                "end": 41,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-15",
+        "content": "I'd like a traditional walnut wardrobe in cherry.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 40,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-16",
+        "content": "I'd like a mid-century oak dining table in natural.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-17",
+        "content": "I'd like a coastal bamboo bar stool in beige.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 23,
+                "tag_name": "material"
+            },
+            {
+                "start": 24,
+                "end": 33,
+                "tag_name": "type"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-18",
+        "content": "I'd like a art deco bronze cabinet in gold.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-19",
+        "content": "I'd like a vintage pine dressing table in ivory.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 21,
+                "tag_name": "material"
+            },
+            {
+                "start": 22,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 40,
+                "end": 45,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-20",
+        "content": "I'd like a contemporary glass display case in clear.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 40,
+                "tag_name": "type"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-21",
+        "content": "I'd like a modern acrylic coffee table in transparent.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 23,
+                "tag_name": "material"
+            },
+            {
+                "start": 24,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 40,
+                "end": 51,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-22",
+        "content": "I'd like a rustic wood sideboard in dark brown.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 20,
+                "tag_name": "material"
+            },
+            {
+                "start": 21,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 34,
+                "end": 44,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-23",
+        "content": "I'd like a farmhouse reclaimed wood shelf in white.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 33,
+                "tag_name": "material"
+            },
+            {
+                "start": 34,
+                "end": 39,
+                "tag_name": "type"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-24",
+        "content": "I'd like a french country oak dresser in cream.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-25",
+        "content": "I'd like a scandinavian birch nightstand in light gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 38,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 52,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-26",
+        "content": "I'd like a industrial metal console table in charcoal.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 39,
+                "tag_name": "type"
+            },
+            {
+                "start": 43,
+                "end": 51,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-27",
+        "content": "I'd like a traditional mahogany bookcase in espresso.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 38,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-28",
+        "content": "I'd like a bohemian woven ottoman in mustard.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "material"
+            },
+            {
+                "start": 24,
+                "end": 31,
+                "tag_name": "type"
+            },
+            {
+                "start": 35,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-29",
+        "content": "I'd like a modern chrome coat rack in silver.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-30",
+        "content": "I'd like a mid-century teak buffet in walnut.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-31",
+        "content": "I'd like a vintage brass mirror in gold.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 29,
+                "tag_name": "type"
+            },
+            {
+                "start": 33,
+                "end": 37,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-32",
+        "content": "I'd like a retro plastic armchair in turquoise.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 14,
+                "tag_name": "style"
+            },
+            {
+                "start": 15,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "tag_name": "type"
+            },
+            {
+                "start": 35,
+                "end": 44,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-33",
+        "content": "I'd like a minimalist marble coffee table in white.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 26,
+                "tag_name": "material"
+            },
+            {
+                "start": 27,
+                "end": 39,
+                "tag_name": "type"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-34",
+        "content": "I'd like a traditional cherry chest in cherry wood.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "tag_name": "type"
+            },
+            {
+                "start": 37,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-35",
+        "content": "I'd like a scandinavian birch bookshelf in light wood.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 51,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-36",
+        "content": "I'd like a contemporary glass end table in clear.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-37",
+        "content": "I'd like a bohemian bamboo plant stand in natural.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 40,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-38",
+        "content": "I'd like a coastal rope headboard in sand.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 21,
+                "tag_name": "material"
+            },
+            {
+                "start": 22,
+                "end": 31,
+                "tag_name": "type"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-39",
+        "content": "I'd like a modern metal tv stand in black.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 21,
+                "tag_name": "material"
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 34,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-40",
+        "content": "I'd like a art deco brass wall mirror in bronze.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "material"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 45,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-41",
+        "content": "I'd like a industrial iron bar table in gunmetal.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 34,
+                "tag_name": "type"
+            },
+            {
+                "start": 38,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-42",
+        "content": "I'd like a traditional oak side table in mahogany.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-43",
+        "content": "I'd like a retro leather recliner in maroon.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 14,
+                "tag_name": "style"
+            },
+            {
+                "start": 15,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "tag_name": "type"
+            },
+            {
+                "start": 35,
+                "end": 41,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-44",
+        "content": "I'd like a mid-century walnut tv console in brown.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 38,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-45",
+        "content": "I'd like a bohemian macrame wall hanging in cream.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 38,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-46",
+        "content": "I'd like a rustic pine bed frame in barnwood.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 20,
+                "tag_name": "material"
+            },
+            {
+                "start": 21,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 34,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-47",
+        "content": "I'd like a contemporary acrylic chair in clear.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-48",
+        "content": "I'd like a farmhouse maple dining bench in chestnut.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 49,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-49",
+        "content": "I'd like a vintage rattan screen in tan.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 23,
+                "tag_name": "material"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 34,
+                "end": 37,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-50",
+        "content": "I'd like a art deco velvet sofa in emerald.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "tag_name": "type"
+            },
+            {
+                "start": 33,
+                "end": 40,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-51",
+        "content": "I'd like a coastal seagrass rug in beige.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 29,
+                "tag_name": "type"
+            },
+            {
+                "start": 33,
+                "end": 38,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-52",
+        "content": "I'd like a minimalist glass vase in transparent.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 34,
+                "end": 45,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-53",
+        "content": "I'd like a french country linen armchair in cream.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 38,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-54",
+        "content": "I'd like a scandinavian pine work desk in oak.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 26,
+                "tag_name": "material"
+            },
+            {
+                "start": 27,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 40,
+                "end": 43,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-55",
+        "content": "I'd like a industrial wire basket in gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "type"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-56",
+        "content": "I'd like a traditional fabric loveseat in burgundy.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 40,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-57",
+        "content": "I'd like a bohemian cotton hammock in multicolor.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 36,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-58",
+        "content": "I'd like a modern synthetic gaming chair in black.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 38,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-59",
+        "content": "I'd like a mid-century teak coffee table in walnut.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 38,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-60",
+        "content": "I'd like a rustic wooden console in natural wood.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 34,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-61",
+        "content": "I'd like a farmhouse canvas tent in beige.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 34,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-62",
+        "content": "I'd like a vintage iron candle holder in black.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 21,
+                "tag_name": "material"
+            },
+            {
+                "start": 22,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-63",
+        "content": "I'd like a contemporary silk curtains in gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 26,
+                "tag_name": "material"
+            },
+            {
+                "start": 27,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 43,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-64",
+        "content": "I'd like a french country upholstered bench in beige.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "type"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-65",
+        "content": "I'd like a retro laminate countertop in yellow.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 14,
+                "tag_name": "style"
+            },
+            {
+                "start": 15,
+                "end": 23,
+                "tag_name": "material"
+            },
+            {
+                "start": 24,
+                "end": 34,
+                "tag_name": "type"
+            },
+            {
+                "start": 38,
+                "end": 44,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-66",
+        "content": "I'd like a minimalist acrylic end table in white.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-67",
+        "content": "I'd like a traditional wool carpet in navy.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-68",
+        "content": "I'd like a scandinavian ash wood dining chair in oak.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 43,
+                "tag_name": "type"
+            },
+            {
+                "start": 47,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-69",
+        "content": "I'd like a industrial copper lamp in rust.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 26,
+                "tag_name": "material"
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "tag_name": "type"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-70",
+        "content": "I'd like a modern rubber mat in dark gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 26,
+                "tag_name": "type"
+            },
+            {
+                "start": 30,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-71",
+        "content": "I'd like a rustic iron lantern in black.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 20,
+                "tag_name": "material"
+            },
+            {
+                "start": 21,
+                "end": 28,
+                "tag_name": "type"
+            },
+            {
+                "start": 32,
+                "end": 37,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-72",
+        "content": "I'd like a farmhouse wooden dresser in white.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 33,
+                "tag_name": "type"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-73",
+        "content": "I'd like a bohemian jute rug in sand.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 26,
+                "tag_name": "type"
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-74",
+        "content": "I'd like a vintage steel bar stool in silver.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-75",
+        "content": "I'd like a art deco metal clock in gold.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "material"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "type"
+            },
+            {
+                "start": 33,
+                "end": 37,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-76",
+        "content": "I'd like a contemporary ceramic table lamp in blue.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 40,
+                "tag_name": "type"
+            },
+            {
+                "start": 44,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-77",
+        "content": "I'd like a french country wicker rocking chair in tan.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 44,
+                "tag_name": "type"
+            },
+            {
+                "start": 48,
+                "end": 51,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-78",
+        "content": "I'd like a scandinavian plywood shelf in light brown.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-79",
+        "content": "I'd like a mid-century walnut sideboard in brown.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-80",
+        "content": "I'd like a retro melamine tableware in red.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 14,
+                "tag_name": "style"
+            },
+            {
+                "start": 15,
+                "end": 23,
+                "tag_name": "material"
+            },
+            {
+                "start": 24,
+                "end": 33,
+                "tag_name": "type"
+            },
+            {
+                "start": 37,
+                "end": 40,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-81",
+        "content": "I'd like a minimalist resin decorative bowl in clear.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 41,
+                "tag_name": "type"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-82",
+        "content": "I'd like a industrial steel bookshelf in matte black.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-83",
+        "content": "I'd like a traditional velvet sofa in plum.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-84",
+        "content": "I'd like a bohemian reed partition in natural.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 36,
+                "end": 43,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-85",
+        "content": "I'd like a modern tempered glass coffee table in clear.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 43,
+                "tag_name": "type"
+            },
+            {
+                "start": 47,
+                "end": 52,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-86",
+        "content": "I'd like a rustic oak pantry in dark brown.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 19,
+                "tag_name": "material"
+            },
+            {
+                "start": 20,
+                "end": 26,
+                "tag_name": "type"
+            },
+            {
+                "start": 30,
+                "end": 40,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-87",
+        "content": "I'd like a contemporary composite tv unit in white.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 39,
+                "tag_name": "type"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-88",
+        "content": "I'd like a vintage mahogany bar in cherry.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 29,
+                "tag_name": "type"
+            },
+            {
+                "start": 33,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-89",
+        "content": "I'd like a art deco faux leather lounger in gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 17,
+                "tag_name": "style"
+            },
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 38,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-90",
+        "content": "I'd like a coastal woven fabric sofa in navy.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "tag_name": "type"
+            },
+            {
+                "start": 38,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-91",
+        "content": "I'd like a french country wrought iron wine rack in bronze.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 46,
+                "tag_name": "type"
+            },
+            {
+                "start": 50,
+                "end": 56,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-92",
+        "content": "I'd like a scandinavian beech wood chest in birch.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 32,
+                "tag_name": "material"
+            },
+            {
+                "start": 33,
+                "end": 38,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-93",
+        "content": "I'd like a industrial concrete coffee table in charcoal gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 28,
+                "tag_name": "material"
+            },
+            {
+                "start": 29,
+                "end": 41,
+                "tag_name": "type"
+            },
+            {
+                "start": 45,
+                "end": 58,
+                "tag_name": "color"
+            }
+        ]
+    }
+]
