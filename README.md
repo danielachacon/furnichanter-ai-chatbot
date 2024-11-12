@@ -1,1 +1,1 @@
-# furnichanter-ai-chatbot
+# Furnichanter AI Chatbot
