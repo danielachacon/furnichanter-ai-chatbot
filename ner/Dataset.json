@@ -1,0 +1,6877 @@
+[
+    {
+        "id": "furn-1",
+        "content": "I am looking for a modern metal desk in black.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-2",
+        "content": "I would like a rustic wooden table in brown.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 26,
+                "tag_name": "material"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-3",
+        "content": "Can you find a Scandinavian leather sofa in beige?",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 28,
+                "tag_name": "style"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "tag_name": "type"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-4",
+        "content": "I'd like a minimalist glass mirror in gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "type"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-5",
+        "content": "I want a mid-century modern marble lamp in white.",
+        "annotations": [
+            {
+                "start": 7,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-6",
+        "content": "Can you suggest an industrial fabric chair in green?",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            },
+            {
+                "start": 47,
+                "end": 52,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-7",
+        "content": "I need an antique wood cabinet in red.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 20,
+                "tag_name": "material"
+            },
+            {
+                "start": 21,
+                "end": 28,
+                "tag_name": "type"
+            },
+            {
+                "start": 33,
+                "end": 36,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-8",
+        "content": "I'm looking for a traditional metal bed in blue.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 28,
+                "tag_name": "style"
+            },
+            {
+                "start": 29,
+                "end": 34,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 38,
+                "tag_name": "type"
+            },
+            {
+                "start": 43,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-9",
+        "content": "I'd like a minimalist velvet dresser in pink.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 33,
+                "tag_name": "type"
+            },
+            {
+                "start": 38,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-10",
+        "content": "Can you find a rustic leather sofa in green?",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-11",
+        "content": "I'm searching for a traditional wooden bed in white.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "tag_name": "material"
+            },
+            {
+                "start": 34,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-12",
+        "content": "Can you find a mid-century modern fabric chair in yellow?",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 35,
+                "tag_name": "style"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "type"
+            },
+            {
+                "start": 53,
+                "end": 59,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-13",
+        "content": "I'd like an industrial metal desk in gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-14",
+        "content": "Looking for a Scandinavian glass cabinet in blue.",
+        "annotations": [
+            {
+                "start": 12,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 40,
+                "tag_name": "type"
+            },
+            {
+                "start": 45,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-15",
+        "content": "I need a minimalist velvet lamp in pink.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-16",
+        "content": "Can you suggest a rustic wood shelf in brown?",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-17",
+        "content": "I'm looking for an antique marble dresser in black.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 39,
+                "tag_name": "type"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-18",
+        "content": "I'd like a traditional fabric sofa in beige.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 26,
+                "tag_name": "material"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-19",
+        "content": "Can you find a modern glass mirror in white?",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "tag_name": "material"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 40,
+                "end": 45,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-20",
+        "content": "I'm searching for an industrial leather chair in green.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 34,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "type"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-21",
+        "content": "I'd like a Scandinavian wood desk in gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 37,
+                "end": 41,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-22",
+        "content": "Can you suggest a minimalist fabric bed in blue?",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 28,
+                "tag_name": "style"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 39,
+                "tag_name": "type"
+            },
+            {
+                "start": 44,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-23",
+        "content": "I'm looking for a mid-century modern metal lamp in red.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 36,
+                "tag_name": "style"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "type"
+            },
+            {
+                "start": 53,
+                "end": 56,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-24",
+        "content": "I'd like an antique glass shelf in yellow.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "tag_name": "type"
+            },
+            {
+                "start": 33,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-25",
+        "content": "Can you find a rustic fabric cabinet in brown?",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-26",
+        "content": "I'm searching for a traditional marble table in white.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 34,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "type"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-27",
+        "content": "I'd like a Scandinavian velvet dresser in pink.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-28",
+        "content": "Can you suggest an industrial leather mirror in black?",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "type"
+            },
+            {
+                "start": 48,
+                "end": 53,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-29",
+        "content": "I'm looking for a minimalist wood lamp in gray.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 26,
+                "tag_name": "style"
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 45,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-30",
+        "content": "I'd like a mid-century modern fabric chair in blue.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 28,
+                "tag_name": "style"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "type"
+            },
+            {
+                "start": 46,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+
+    {
+        "id": "furn-11",
+        "content": "I'm searching for a traditional wooden bed in white.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "tag_name": "material"
+            },
+            {
+                "start": 34,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-12",
+        "content": "Can you find a mid-century modern fabric chair in yellow?",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 35,
+                "tag_name": "style"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "type"
+            },
+            {
+                "start": 53,
+                "end": 59,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-13",
+        "content": "I'd like an industrial metal desk in gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-14",
+            "content": "Looking for a Scandinavian glass cabinet in blue.",
+            "annotations": [
+                {
+                    "start": 12,
+                    "end": 25,
+                    "tag_name": "style"
+                },
+                {
+                    "start": 26,
+                    "end": 31,
+                    "tag_name": "material"
+                },
+                {
+                    "start": 32,
+                    "end": 40,
+                    "tag_name": "type"
+                },
+                {
+                    "start": 45,
+                    "end": 48,
+                    "tag_name": "color"
+                }
+            ]
+    },
+    {
+        "id": "furn-15",
+        "content": "I need a minimalist velvet lamp in pink.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-16",
+        "content": "Can you suggest a rustic wood shelf in brown?",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-17",
+        "content": "I'm looking for an antique marble dresser in black.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 39,
+                "tag_name": "type"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-18",
+        "content": "I'd like a traditional fabric sofa in beige.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 26,
+                "tag_name": "material"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-19",
+        "content": "Can you find a modern glass mirror in white?",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "tag_name": "material"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 40,
+                "end": 45,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-20",
+        "content": "I'm searching for an industrial leather chair in green.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 34,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "type"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-21",
+        "content": "I'd like a Scandinavian wood desk in gray.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 32,
+                "tag_name": "type"
+            },
+            {
+                "start": 37,
+                "end": 41,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-22",
+        "content": "Can you suggest a minimalist fabric bed in blue?",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 28,
+                "tag_name": "style"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 39,
+                "tag_name": "type"
+            },
+            {
+                "start": 44,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-23",
+        "content": "I'm looking for a mid-century modern metal lamp in red.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 36,
+                "tag_name": "style"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "type"
+            },
+            {
+                "start": 53,
+                "end": 56,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-24",
+        "content": "I'd like an antique glass shelf in yellow.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 17,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "tag_name": "type"
+            },
+            {
+                "start": 33,
+                "end": 39,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-25",
+        "content": "Can you find a rustic fabric cabinet in brown?",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-26",
+        "content": "I'm searching for a traditional marble table in white.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 34,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "type"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-27",
+        "content": "I'd like a Scandinavian velvet dresser in pink.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-28",
+        "content": "Can you suggest an industrial leather mirror in black?",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "type"
+            },
+            {
+                "start": 48,
+                "end": 53,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-29",
+        "content": "I'm looking for a minimalist wood lamp in gray.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 26,
+                "tag_name": "style"
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 36,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 45,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-30",
+        "content": "I'd like a mid-century modern fabric chair in blue.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 28,
+                "tag_name": "style"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "type"
+            },
+            {
+                "start": 46,
+                "end": 50,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-30",
+        "content": "I’m looking for a minimalist white leather sofa for my living room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "tag_name": "color"
+            },
+            {
+                "start": 34,
+                "end": 41,
+                "tag_name": "material"
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-31",
+        "content": "I need an industrial metal bed with a rustic finish.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 29,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-32",
+        "content": "Can you suggest a mid-century modern green velvet chair?",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 33,
+                "tag_name": "style"
+            },
+            {
+                "start": 34,
+                "end": 39,
+                "tag_name": "color"
+            },
+            {
+                "start": 40,
+                "end": 46,
+                "tag_name": "material"
+            },
+            {
+                "start": 47,
+                "end": 52,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-33",
+        "content": "Looking for a traditional wooden dresser in beige.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 39,
+                "tag_name": "type"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-34",
+        "content": "I want a Scandinavian gray fabric sofa for my home.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "tag_name": "color"
+            },
+            {
+                "start": 26,
+                "end": 32,
+                "tag_name": "material"
+            },
+            {
+                "start": 33,
+                "end": 37,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-35",
+        "content": "I’m searching for an antique wooden mirror in dark brown.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "type"
+            },
+            {
+                "start": 41,
+                "end": 46,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-36",
+        "content": "Do you have a mid-century modern glass coffee table?",
+        "annotations": [
+            {
+                "start": 11,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "tag_name": "material"
+            },
+            {
+                "start": 34,
+                "end": 39,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-37",
+        "content": "I’d like a modern marble dining table in white.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 22,
+                "tag_name": "material"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "tag_name": "type"
+            },
+            {
+                "start": 32,
+                "end": 37,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-38",
+        "content": "I’m interested in a rustic wooden cabinet in a warm brown tone.",
+        "annotations": [
+            {
+                "start": 20,
+                "end": 26,
+                "tag_name": "style"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "material"
+            },
+            {
+                "start": 33,
+                "end": 40,
+                "tag_name": "type"
+            },
+            {
+                "start": 47,
+                "end": 52,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-39",
+        "content": "Show me a Scandinavian metal bed in gray.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 26,
+                "tag_name": "material"
+            },
+            {
+                "start": 27,
+                "end": 30,
+                "tag_name": "type"
+            },
+            {
+                "start": 34,
+                "end": 38,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-40",
+        "content": "Looking for an industrial black metal shelf for my home office.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "color"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-41",
+        "content": "Can you find a mid-century modern red fabric chair?",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 34,
+                "tag_name": "color"
+            },
+            {
+                "start": 35,
+                "end": 41,
+                "tag_name": "material"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-42",
+        "content": "I’m searching for a rustic wooden desk in black.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "tag_name": "type"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-43",
+        "content": "I’m interested in a Scandinavian blue fabric sofa.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 47,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-44",
+        "content": "Do you have a traditional green leather armchair?",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "tag_name": "color"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-45",
+        "content": "I’m looking for a minimalist marble bedside table.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 34,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-45",
+        "content": "I'm looking for a modern black metal chair for my patio.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 26,
+                "tag_name": "color"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "material"
+            },
+            {
+                "start": 33,
+                "end": 38,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-46",
+        "content": "I'm interested in a minimalist white marble coffee table.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 26,
+                "tag_name": "style"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "color"
+            },
+            {
+                "start": 33,
+                "end": 39,
+                "tag_name": "material"
+            },
+            {
+                "start": 40,
+                "end": 52,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-47",
+        "content": "I'm searching for a rustic wooden dresser in brown.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 38,
+                "tag_name": "type"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-48",
+        "content": "Can you find a traditional gray fabric sofa?",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "color"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-49",
+        "content": "I'd like a Scandinavian beige leather armchair.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "tag_name": "color"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-50",
+        "content": "Looking for a mid-century modern blue velvet chair.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-51",
+        "content": "I'm interested in an industrial black metal lamp for my office.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "tag_name": "color"
+            },
+            {
+                "start": 34,
+                "end": 39,
+                "tag_name": "material"
+            },
+            {
+                "start": 40,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-52",
+        "content": "Do you have a traditional green velvet chair?",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "tag_name": "color"
+            },
+            {
+                "start": 28,
+                "end": 34,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-53",
+        "content": "I'd like a minimalist glass shelf in my bathroom.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-54",
+        "content": "I'm searching for a Scandinavian gray fabric bed.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 46,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-55",
+        "content": "Can you suggest a mid-century modern white marble coffee table?",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 33,
+                "tag_name": "style"
+            },
+            {
+                "start": 34,
+                "end": 39,
+                "tag_name": "color"
+            },
+            {
+                "start": 40,
+                "end": 46,
+                "tag_name": "material"
+            },
+            {
+                "start": 47,
+                "end": 59,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-56",
+        "content": "Looking for a minimalist brown wooden cabinet.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-57",
+        "content": "I'm interested in a rustic green leather armchair.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 46,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-58",
+        "content": "I'd like a Scandinavian blue fabric sofa for my lounge.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 26,
+                "tag_name": "color"
+            },
+            {
+                "start": 27,
+                "end": 33,
+                "tag_name": "material"
+            },
+            {
+                "start": 34,
+                "end": 38,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-59",
+        "content": "Can you recommend a mid-century modern white metal lamp?",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 35,
+                "tag_name": "style"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "color"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "material"
+            },
+            {
+                "start": 48,
+                "end": 52,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-60",
+        "content": "I'm looking for an industrial yellow metal shelf.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 28,
+                "tag_name": "style"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "material"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-61",
+        "content": "I'm looking for a modern beige fabric sofa for my living room.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 26,
+                "tag_name": "color"
+            },
+            {
+                "start": 27,
+                "end": 33,
+                "tag_name": "material"
+            },
+            {
+                "start": 34,
+                "end": 38,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-62",
+        "content": "Can you find a Scandinavian white metal shelf?",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 26,
+                "tag_name": "style"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "color"
+            },
+            {
+                "start": 33,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-63",
+        "content": "I'm interested in a traditional brown wooden cabinet.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 28,
+                "tag_name": "style"
+            },
+            {
+                "start": 29,
+                "end": 34,
+                "tag_name": "color"
+            },
+            {
+                "start": 35,
+                "end": 41,
+                "tag_name": "material"
+            },
+            {
+                "start": 42,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-64",
+        "content": "I’d like a minimalist black marble coffee table.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 25,
+                "tag_name": "color"
+            },
+            {
+                "start": 26,
+                "end": 32,
+                "tag_name": "material"
+            },
+            {
+                "start": 33,
+                "end": 45,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-65",
+        "content": "Looking for a rustic gray leather armchair.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "tag_name": "color"
+            },
+            {
+                "start": 26,
+                "end": 33,
+                "tag_name": "material"
+            },
+            {
+                "start": 34,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-66",
+        "content": "I’m searching for a mid-century modern green fabric sofa.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 34,
+                "tag_name": "style"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "color"
+            },
+            {
+                "start": 41,
+                "end": 47,
+                "tag_name": "material"
+            },
+            {
+                "start": 48,
+                "end": 52,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-67",
+        "content": "I'm interested in an antique brown wooden dresser.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "color"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 46,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-68",
+        "content": "Can you suggest a Scandinavian blue glass desk?",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "tag_name": "color"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "material"
+            },
+            {
+                "start": 41,
+                "end": 45,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-69",
+        "content": "I’d like a traditional beige leather bed.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "tag_name": "color"
+            },
+            {
+                "start": 28,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 39,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-70",
+        "content": "I'm looking for a modern pink velvet sofa for my office.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 41,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-71",
+        "content": "Can you recommend a minimalist black metal desk?",
+        "annotations": [
+            {
+                "start": 20,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "material"
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-72",
+        "content": "I'm searching for a Scandinavian yellow fabric chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "color"
+            },
+            {
+                "start": 38,
+                "end": 44,
+                "tag_name": "material"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-73",
+        "content": "I’d like an industrial gray wooden shelf for storage.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "tag_name": "color"
+            },
+            {
+                "start": 26,
+                "end": 32,
+                "tag_name": "material"
+            },
+            {
+                "start": 33,
+                "end": 38,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-74",
+        "content": "Can you find a mid-century modern brown leather chair?",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 44,
+                "tag_name": "material"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-75",
+        "content": "I'm looking for a traditional white glass mirror for my entryway.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "material"
+            },
+            {
+                "start": 42,
+                "end": 48,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-76",
+        "content": "I want to buy a rustic white wooden bed frame.",
+        "annotations": [
+            {
+                "start": 12,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 24,
+                "tag_name": "color"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 35,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-77",
+        "content": "I’m looking for a traditional black leather desk chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-78",
+        "content": "Looking for an antique green velvet armchair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "color"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 46,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-79",
+        "content": "Can you recommend a modern blue glass table for the living room?",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "tag_name": "color"
+            },
+            {
+                "start": 29,
+                "end": 34,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-80",
+        "content": "I'm interested in a Scandinavian gray metal bed.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "material"
+            },
+            {
+                "start": 42,
+                "end": 45,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-81",
+        "content": "I need a minimalist beige fabric lamp for my study.",
+        "annotations": [
+            {
+                "start": 12,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "tag_name": "color"
+            },
+            {
+                "start": 29,
+                "end": 34,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-82",
+        "content": "Looking for an industrial brown wooden mirror for the hallway.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-83",
+        "content": "I’d like a rustic red leather desk chair.",
+        "annotations": [
+            {
+                "start": 12,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 22,
+                "tag_name": "color"
+            },
+            {
+                "start": 23,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-84",
+        "content": "I'm searching for a mid-century modern blue velvet chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 35,
+                "tag_name": "style"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "color"
+            },
+            {
+                "start": 42,
+                "end": 48,
+                "tag_name": "material"
+            },
+            {
+                "start": 49,
+                "end": 54,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-85",
+        "content": "Can you find a traditional white marble coffee table?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-86",
+        "content": "I'm interested in an antique beige leather armchair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "color"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 46,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-87",
+        "content": "Can you recommend a Scandinavian brown fabric sofa?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-88",
+        "content": "I'm looking for an industrial yellow metal dresser.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 50,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-89",
+        "content": "I need a rustic gray metal mirror for my bedroom.",
+        "annotations": [
+            {
+                "start": 12,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 24,
+                "tag_name": "color"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 38,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-90",
+        "content": "I’m searching for a traditional black wooden bed frame.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 46,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-91",
+        "content": "I’m looking for a minimalist green fabric armchair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "material"
+            },
+            {
+                "start": 42,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-92",
+        "content": "Looking for a traditional white metal lamp for my office.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-93",
+        "content": "Can you find me a rustic brown leather mirror?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "color"
+            },
+            {
+                "start": 31,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 45,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-94",
+        "content": "I'm looking for an industrial gray velvet sofa.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 47,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-95",
+        "content": "Can you recommend a Scandinavian beige leather chair?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-96",
+        "content": "I'm looking for an antique blue marble table for my living room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "color"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-97",
+        "content": "Can you help me find a modern red fabric desk?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 27,
+                "tag_name": "color"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "tag_name": "material"
+            },
+            {
+                "start": 34,
+                "end": 38,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-98",
+        "content": "Looking for a minimalist white metal shelf for my home office.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "material"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-99",
+        "content": "I'm searching for a mid-century modern brown leather chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "color"
+            },
+            {
+                "start": 44,
+                "end": 51,
+                "tag_name": "material"
+            },
+            {
+                "start": 52,
+                "end": 57,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-100",
+        "content": "I’m looking for a traditional pink wooden cabinet for my kitchen.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 51,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-101",
+        "content": "Can you recommend a Scandinavian gray metal bed frame?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 46,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-102",
+        "content": "Looking for a minimalist blue glass lamp for my living room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-103",
+        "content": "I need a rustic beige velvet sofa for my living room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "color"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-104",
+        "content": "Can you recommend a modern black wooden desk?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-105",
+        "content": "I'm looking for an antique gray marble table for the dining room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "color"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-106",
+        "content": "I'm searching for a Scandinavian gray fabric chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-107",
+        "content": "Can you recommend a modern brown leather sofa?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-108",
+        "content": "I'm looking for an industrial black metal table for the kitchen.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-109",
+        "content": "Can you find me a traditional white wooden cabinet?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 51,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-110",
+        "content": "I'm looking for a rustic beige leather chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "color"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-111",
+        "content": "I'm searching for a mid-century modern gray fabric lamp.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "color"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "material"
+            },
+            {
+                "start": 51,
+                "end": 56,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-112",
+        "content": "Looking for an antique pink metal bed frame.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "color"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-113",
+        "content": "Can you find a modern beige marble shelf?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-114",
+        "content": "I’m looking for a traditional brown wooden dresser.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 50,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-115",
+        "content": "Can you recommend a Scandinavian gray velvet chair?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-116",
+        "content": "Looking for a mid-century modern white leather desk.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "color"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "material"
+            },
+            {
+                "start": 51,
+                "end": 56,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-117",
+        "content": "I'm looking for a traditional gray metal table for the dining room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-118",
+        "content": "Can you recommend a modern green glass lamp?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-119",
+        "content": "I'm looking for an industrial brown velvet bed frame.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-120",
+        "content": "Can you find me an antique yellow fabric armchair?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "color"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 46,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-121",
+        "content": "I'm looking for a modern white velvet desk chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-122",
+        "content": "Can you recommend a rustic brown leather sofa?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "color"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-123",
+        "content": "Looking for a Scandinavian gray marble table.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-124",
+        "content": "I'm looking for a traditional beige wooden dresser.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 51,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-125",
+        "content": "Can you find me an industrial black metal lamp?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-126",
+        "content": "Looking for a rustic green velvet armchair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "color"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 46,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-127",
+        "content": "I need a mid-century modern pink leather chair for my office.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "color"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "material"
+            },
+            {
+                "start": 51,
+                "end": 56,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-128",
+        "content": "Can you find me a traditional blue fabric bed?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 47,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-129",
+        "content": "I'm searching for a modern gray glass shelf.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-130",
+        "content": "Looking for a Scandinavian white leather chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-131",
+        "content": "Can you recommend a mid-century modern green fabric desk?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "color"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "material"
+            },
+            {
+                "start": 51,
+                "end": 56,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-132",
+        "content": "I need a rustic red velvet mirror for the hallway.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-133",
+        "content": "Can you find me a traditional brown metal lamp?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-134",
+        "content": "Looking for a mid-century modern beige leather bed frame.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "color"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "material"
+            },
+            {
+                "start": 51,
+                "end": 56,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-135",
+        "content": "Can you recommend an industrial blue fabric chair for my office?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+
+    {
+        "id": "furn-136",
+        "content": "Looking for a modern black wooden table.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-137",
+        "content": "Can you recommend a Scandinavian leather chair?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-138",
+        "content": "Looking for a rustic brown desk.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "color"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-139",
+        "content": "I need a pink metal mirror for my bedroom.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 22,
+                "tag_name": "color"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "tag_name": "material"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-140",
+        "content": "Looking for a mid-century modern wooden bed frame.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-141",
+        "content": "Can you find me an antique glass shelf?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 37,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-142",
+        "content": "I'm looking for a traditional brown leather armchair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-143",
+        "content": "Looking for a white glass table for the dining room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "color"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-144",
+        "content": "Can you recommend a traditional green velvet dresser?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 51,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-145",
+        "content": "I'm searching for an industrial beige wooden table.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-146",
+        "content": "Looking for a rustic blue fabric cabinet.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-147",
+        "content": "Looking for a mid-century modern velvet sofa.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 44,
+                "tag_name": "material"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-148",
+        "content": "I need a rustic wooden lamp for my living room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-149",
+        "content": "Can you find me a modern gray leather desk?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-150",
+        "content": "I want an antique blue velvet bed.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "color"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-151",
+        "content": "Looking for a traditional leather sofa.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            }
+        ]
+    },
+    {
+        "id": "furn-152",
+        "content": "I need a modern blue desk for my office.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "tag_name": "color"
+            },
+            {
+                "start": 29,
+                "end": 34,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-153",
+        "content": "Looking for a rustic wooden shelf for my living room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 37,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-154",
+        "content": "Can you find me a vintage metal lamp?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "material"
+            }
+        ]
+    },
+    {
+        "id": "furn-155",
+        "content": "I want a Scandinavian marble table for the dining room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-156",
+        "content": "Looking for a modern green bed.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-157",
+        "content": "Can you find me a beige velvet chair?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "color"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-158",
+        "content": "I'm looking for a rustic wooden dresser for my bedroom.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            }
+        ]
+    },
+    {
+        "id": "furn-159",
+        "content": "Looking for a mid-century modern gray lamp.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-160",
+        "content": "I need a traditional wooden table for the dining room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "material"
+            }
+        ]
+    },
+    {
+        "id": "furn-161",
+        "content": "I want a white fabric bed frame.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "color"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "tag_name": "material"
+            }
+        ]
+    },
+    {
+        "id": "furn-162",
+        "content": "Looking for an antique green velvet chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-163",
+        "content": "Can you find me a modern black cabinet?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-164",
+        "content": "Looking for a Scandinavian wood desk for my office.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-165",
+        "content": "Can you find me a mid-century modern pink lamp?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "color"
+            }
+        ]
+    },
+    {
+        "id": "furn-166",
+        "content": "Looking for a traditional gray and beige sofa for my living room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 40,
+                "end": 45,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-167",
+        "content": "I want a vintage red and blue leather chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 28,
+                "tag_name": "color"
+            },
+            {
+                "start": 29,
+                "end": 33,
+                "tag_name": "color"
+            },
+            {
+                "start": 34,
+                "end": 40,
+                "tag_name": "material"
+            },
+            {
+                "start": 41,
+                "end": 47,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-168",
+        "content": "Looking for a modern and traditional marble dining table.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 39,
+                "tag_name": "type"
+            },
+            {
+                "start": 40,
+                "end": 46,
+                "tag_name": "material"
+            }
+        ]
+    },
+    {
+        "id": "furn-169",
+        "content": "I need a rustic wooden and metal bed frame.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 32,
+                "tag_name": "material"
+            },
+            {
+                "start": 33,
+                "end": 37,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-170",
+        "content": "Looking for a Scandinavian gray and black velvet sofa.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "tag_name": "color"
+            },
+            {
+                "start": 42,
+                "end": 48,
+                "tag_name": "material"
+            },
+            {
+                "start": 49,
+                "end": 54,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-171",
+        "content": "Can you find me a traditional black and red wood dresser?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 41,
+                "tag_name": "color"
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "tag_name": "material"
+            },
+            {
+                "start": 47,
+                "end": 53,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-172",
+        "content": "Looking for a mid-century modern gray and beige marble table.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 42,
+                "tag_name": "color"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "color"
+            },
+            {
+                "start": 49,
+                "end": 55,
+                "tag_name": "material"
+            },
+            {
+                "start": 56,
+                "end": 61,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-173",
+        "content": "I want a Scandinavian and antique wooden cabinet.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-174",
+        "content": "Looking for a traditional black and white fabric chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "color"
+            },
+            {
+                "start": 43,
+                "end": 49,
+                "tag_name": "material"
+            },
+            {
+                "start": 50,
+                "end": 56,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-175",
+        "content": "I need a rustic leather and fabric sofa for the living room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-175",
+        "content": "I need a rustic leather and fabric sofa for the living room.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-176",
+        "content": "Looking for a modern black and white velvet sofa.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "color"
+            },
+            {
+                "start": 43,
+                "end": 49,
+                "tag_name": "material"
+            },
+            {
+                "start": 50,
+                "end": 55,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-177",
+        "content": "Can you find me a rustic wood and marble bed frame?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "tag_name": "material"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-178",
+        "content": "Looking for a vintage brown and green leather chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "color"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-179",
+        "content": "I want a Scandinavian metal and wood desk.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 41,
+                "tag_name": "material"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-180",
+        "content": "Looking for a mid-century modern pink and gray lamp.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 42,
+                "tag_name": "color"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "color"
+            },
+            {
+                "start": 49,
+                "end": 54,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-181",
+        "content": "I need a traditional wooden and metal cabinet.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-182",
+        "content": "Looking for a Scandinavian and antique marble dining table.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-183",
+        "content": "Can you find me a vintage velvet and fabric chair?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-184",
+        "content": "Looking for a traditional black and white wood dresser.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 41,
+                "tag_name": "color"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "material"
+            },
+            {
+                "start": 48,
+                "end": 54,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-185",
+        "content": "I want a Scandinavian gray and white metal lamp.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "color"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "material"
+            },
+            {
+                "start": 49,
+                "end": 54,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-186",
+        "content": "Looking for a vintage wooden and leather cabinet.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-187",
+        "content": "I want a modern fabric and velvet chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "tag_name": "material"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-188",
+        "content": "Looking for a traditional black and green wooden table.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "color"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "material"
+            },
+            {
+                "start": 49,
+                "end": 54,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-189",
+        "content": "Can you find me a Scandinavian gray and black wood sofa?",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "color"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "material"
+            },
+            {
+                "start": 49,
+                "end": 54,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-190",
+        "content": "Looking for a modern and antique black leather chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "color"
+            },
+            {
+                "start": 43,
+                "end": 49,
+                "tag_name": "material"
+            },
+            {
+                "start": 50,
+                "end": 55,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-191",
+        "content": "I need a Scandinavian white and blue fabric bed.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "tag_name": "color"
+            },
+            {
+                "start": 33,
+                "end": 38,
+                "tag_name": "color"
+            },
+            {
+                "start": 39,
+                "end": 45,
+                "tag_name": "material"
+            },
+            {
+                "start": 46,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-192",
+        "content": "Looking for a traditional green leather and wood dresser.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 47,
+                "end": 51,
+                "tag_name": "material"
+            },
+            {
+                "start": 52,
+                "end": 59,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-193",
+        "content": "Can you help me find a rustic marble and metal table?",
+        "annotations": [
+            {
+                "start": 23,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 41,
+                "end": 46,
+                "tag_name": "material"
+            },
+            {
+                "start": 47,
+                "end": 52,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-194",
+        "content": "I'd like an industrial and modern black wooden cabinet.",
+        "annotations": [
+            {
+                "start": 11,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 32,
+                "tag_name": "style"
+            },
+            {
+                "start": 33,
+                "end": 38,
+                "tag_name": "color"
+            },
+            {
+                "start": 39,
+                "end": 45,
+                "tag_name": "material"
+            },
+            {
+                "start": 46,
+                "end": 53,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-195",
+        "content": "I'm interested in a mid-century modern gray and pink chair.",
+        "annotations": [
+            {
+                "start": 21,
+                "end": 38,
+                "tag_name": "style"
+            },
+            {
+                "start": 39,
+                "end": 43,
+                "tag_name": "color"
+            },
+            {
+                "start": 48,
+                "end": 52,
+                "tag_name": "color"
+            },
+            {
+                "start": 53,
+                "end": 58,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-196",
+        "content": "Looking for a Scandinavian marble and glass table.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "tag_name": "material"
+            },
+            {
+                "start": 48,
+                "end": 53,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-197",
+        "content": "I need a mid-century modern beige fabric and leather sofa.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "tag_name": "color"
+            },
+            {
+                "start": 34,
+                "end": 40,
+                "tag_name": "material"
+            },
+            {
+                "start": 45,
+                "end": 51,
+                "tag_name": "material"
+            },
+            {
+                "start": 52,
+                "end": 56,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-198",
+        "content": "I'm looking for an antique and rustic green wooden mirror.",
+        "annotations": [
+            {
+                "start": 20,
+                "end": 26,
+                "tag_name": "style"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "color"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "material"
+            },
+            {
+                "start": 51,
+                "end": 57,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-199",
+        "content": "Need a minimalist and industrial metal and glass lamp.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 34,
+                "tag_name": "style"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "material"
+            },
+            {
+                "start": 45,
+                "end": 50,
+                "tag_name": "material"
+            },
+            {
+                "start": 51,
+                "end": 55,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-200",
+        "content": "I need a rustic and traditional wooden shelf.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 16,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 32,
+                "tag_name": "style"
+            },
+            {
+                "start": 33,
+                "end": 39,
+                "tag_name": "material"
+            },
+            {
+                "start": 40,
+                "end": 45,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-201",
+        "content": "Searching for a vintage white and beige marble lamp.",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 34,
+                "end": 39,
+                "tag_name": "color"
+            },
+            {
+                "start": 40,
+                "end": 46,
+                "tag_name": "material"
+            },
+            {
+                "start": 47,
+                "end": 51,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-202",
+        "content": "Looking for a mid-century modern fabric and leather chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 35,
+                "tag_name": "style"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "material"
+            },
+            {
+                "start": 47,
+                "end": 53,
+                "tag_name": "material"
+            },
+            {
+                "start": 54,
+                "end": 59,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-203",
+        "content": "I want a Scandinavian gray and black glass table.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 27,
+                "tag_name": "color"
+            },
+            {
+                "start": 32,
+                "end": 37,
+                "tag_name": "color"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "material"
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-204",
+        "content": "Looking for an antique wooden and marble cabinet.",
+        "annotations": [
+            {
+                "start": 13,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 26,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 37,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 45,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-205",
+        "content": "Could I get a minimalist and Scandinavian black velvet dresser?",
+        "annotations": [
+            {
+                "start": 15,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 42,
+                "tag_name": "style"
+            },
+            {
+                "start": 43,
+                "end": 48,
+                "tag_name": "color"
+            },
+            {
+                "start": 49,
+                "end": 55,
+                "tag_name": "material"
+            },
+            {
+                "start": 56,
+                "end": 63,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-206",
+        "content": "I'd like a Scandinavian wood table.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-207",
+        "content": "Looking for a black marble dresser.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 19,
+                "tag_name": "color"
+            },
+            {
+                "start": 20,
+                "end": 26,
+                "tag_name": "material"
+            },
+            {
+                "start": 27,
+                "end": 34,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-208",
+        "content": "I'm interested in a rustic metal bed.",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 25,
+                "tag_name": "style"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 35,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-209",
+        "content": "Can you find a minimalist gray lamp?",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 32,
+                "tag_name": "color"
+            },
+            {
+                "start": 33,
+                "end": 37,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-210",
+        "content": "I need a leather and wood chair.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 14,
+                "tag_name": "material"
+            },
+            {
+                "start": 19,
+                "end": 23,
+                "tag_name": "material"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-211",
+        "content": "I'd like an antique velvet mirror.",
+        "annotations": [
+            {
+                "start": 11,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 32,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-212",
+        "content": "Looking for a mid-century modern blue cabinet.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 35,
+                "tag_name": "style"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "tag_name": "color"
+            },
+            {
+                "start": 41,
+                "end": 48,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-213",
+        "content": "I need a minimalist glass table.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 24,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-214",
+        "content": "Please find a traditional white bed.",
+        "annotations": [
+            {
+                "start": 13,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 33,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-215",
+        "content": "I'd like a black metal chair.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 15,
+                "tag_name": "color"
+            },
+            {
+                "start": 16,
+                "end": 21,
+                "tag_name": "material"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-216",
+        "content": "Looking for a Scandinavian beige sofa.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 26,
+                "tag_name": "style"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "color"
+            },
+            {
+                "start": 33,
+                "end": 37,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-217",
+        "content": "Can you find a traditional blue chair?",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 32,
+                "tag_name": "color"
+            },
+            {
+                "start": 33,
+                "end": 38,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-218",
+        "content": "I need a rustic wood shelf.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 14,
+                "tag_name": "style"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "tag_name": "material"
+            },
+            {
+                "start": 20,
+                "end": 25,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-219",
+        "content": "Looking for a modern marble desk.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "tag_name": "material"
+            },
+            {
+                "start": 28,
+                "end": 32,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-220",
+        "content": "I'm interested in a mid-century wooden bed.",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 40,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-221",
+        "content": "Looking for a Scandinavian black chair.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 26,
+                "tag_name": "style"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "color"
+            },
+            {
+                "start": 33,
+                "end": 38,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-222",
+        "content": "Could I get a traditional velvet dresser?",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 26,
+                "tag_name": "style"
+            },
+            {
+                "start": 27,
+                "end": 33,
+                "tag_name": "material"
+            },
+            {
+                "start": 34,
+                "end": 41,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-223",
+        "content": "I'm interested in a mid-century white mirror.",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "tag_name": "color"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-224",
+        "content": "Can you find a rustic wood dresser?",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "tag_name": "material"
+            },
+            {
+                "start": 29,
+                "end": 36,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-225",
+        "content": "I'd like an industrial gray desk.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "tag_name": "color"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-226",
+        "content": "Looking for a minimalist fabric sofa.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 36,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-227",
+        "content": "Can you find a black and white chair?",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 22,
+                "tag_name": "color"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "color"
+            },
+            {
+                "start": 33,
+                "end": 38,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-228",
+        "content": "I need a Scandinavian wood shelf.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-229",
+        "content": "Looking for a modern gray and blue bed.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 34,
+                "tag_name": "color"
+            },
+            {
+                "start": 35,
+                "end": 38,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-230",
+        "content": "I'd like a white and gray marble table.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 15,
+                "tag_name": "color"
+            },
+            {
+                "start": 20,
+                "end": 24,
+                "tag_name": "color"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 37,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-231",
+        "content": "Could I get a minimalist lamp?",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 26,
+                "tag_name": "style"
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-232",
+        "content": "I'm interested in a Scandinavian gray desk.",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 31,
+                "tag_name": "style"
+            },
+            {
+                "start": 32,
+                "end": 36,
+                "tag_name": "color"
+            },
+            {
+                "start": 37,
+                "end": 41,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-233",
+        "content": "I need a leather and wood bed.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 14,
+                "tag_name": "material"
+            },
+            {
+                "start": 19,
+                "end": 23,
+                "tag_name": "material"
+            },
+            {
+                "start": 24,
+                "end": 27,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-234",
+        "content": "Can you find a beige cabinet?",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 22,
+                "tag_name": "color"
+            },
+            {
+                "start": 23,
+                "end": 30,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-235",
+        "content": "I'd like a traditional wood shelf.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "tag_name": "material"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-236",
+        "content": "I’m looking for a modern gray leather chair.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-237",
+        "content": "Could you help me find a traditional white wooden cabinet?",
+        "annotations": [
+            {
+                "start": 27,
+                "end": 37,
+                "tag_name": "style"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "color"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "material"
+            },
+            {
+                "start": 51,
+                "end": 58,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-238",
+        "content": "I'd like a minimalist black metal desk.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 26,
+                "tag_name": "color"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "material"
+            },
+            {
+                "start": 33,
+                "end": 37,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-239",
+        "content": "Looking for an antique beige velvet sofa.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 21,
+                "tag_name": "style"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "tag_name": "color"
+            },
+            {
+                "start": 28,
+                "end": 34,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-240",
+        "content": "I need a mid-century modern blue and yellow fabric chair.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 24,
+                "tag_name": "style"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 34,
+                "end": 40,
+                "tag_name": "color"
+            },
+            {
+                "start": 41,
+                "end": 47,
+                "tag_name": "material"
+            },
+            {
+                "start": 48,
+                "end": 53,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-241",
+        "content": "Can you find a rustic brown leather bed?",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "tag_name": "color"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "tag_name": "material"
+            },
+            {
+                "start": 37,
+                "end": 40,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-242",
+        "content": "I'd like a Scandinavian green glass lamp.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 22,
+                "tag_name": "style"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "tag_name": "color"
+            },
+            {
+                "start": 29,
+                "end": 34,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-243",
+        "content": "Searching for a traditional white and beige marble table.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 27,
+                "tag_name": "style"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "tag_name": "color"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "tag_name": "color"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "tag_name": "material"
+            },
+            {
+                "start": 51,
+                "end": 56,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-244",
+        "content": "I want a modern wood and metal dresser.",
+        "annotations": [
+            {
+                "start": 9,
+                "end": 15,
+                "tag_name": "style"
+            },
+            {
+                "start": 16,
+                "end": 20,
+                "tag_name": "material"
+            },
+            {
+                "start": 25,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 31,
+                "end": 38,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-245",
+        "content": "Can I get an antique blue marble shelf?",
+        "annotations": [
+            {
+                "start": 12,
+                "end": 19,
+                "tag_name": "style"
+            },
+            {
+                "start": 20,
+                "end": 24,
+                "tag_name": "color"
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "tag_name": "material"
+            },
+            {
+                "start": 32,
+                "end": 37,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-246",
+        "content": "Looking for a rustic brown fabric and velvet bed.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 26,
+                "tag_name": "color"
+            },
+            {
+                "start": 27,
+                "end": 33,
+                "tag_name": "material"
+            },
+            {
+                "start": 38,
+                "end": 44,
+                "tag_name": "material"
+            },
+            {
+                "start": 45,
+                "end": 48,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-247",
+        "content": "I need a Scandinavian beige glass dresser.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 20,
+                "tag_name": "style"
+            },
+            {
+                "start": 21,
+                "end": 26,
+                "tag_name": "color"
+            },
+            {
+                "start": 27,
+                "end": 32,
+                "tag_name": "material"
+            },
+            {
+                "start": 33,
+                "end": 40,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-248",
+        "content": "I'm interested in a minimalist red velvet sofa.",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 29,
+                "tag_name": "style"
+            },
+            {
+                "start": 30,
+                "end": 33,
+                "tag_name": "color"
+            },
+            {
+                "start": 34,
+                "end": 40,
+                "tag_name": "material"
+            },
+            {
+                "start": 41,
+                "end": 45,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-249",
+        "content": "Can I find a mid-century pink fabric mirror?",
+        "annotations": [
+            {
+                "start": 13,
+                "end": 23,
+                "tag_name": "style"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "tag_name": "color"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "tag_name": "material"
+            },
+            {
+                "start": 36,
+                "end": 42,
+                "tag_name": "type"
+            }
+        ]
+    },
+    {
+        "id": "furn-250",
+        "content": "I need a traditional gray marble and metal coffee table.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 18,
+                "tag_name": "style"
+            },
+            {
+                "start": 19,
+                "end": 23,
+                "tag_name": "color"
+            },
+            {
+                "start": 24,
+                "end": 30,
+                "tag_name": "material"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "tag_name": "material"
+            },
+            {
+                "start": 41,
+                "end": 53,
+                "tag_name": "type"
+            }
+        ]
+    }
+]
