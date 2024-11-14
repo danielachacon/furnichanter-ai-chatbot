@@ -1,0 +1,55 @@
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white; 
+    padding: 15px 20px; 
+    font-size: 48px; 
+    font-weight: bold; 
+    text-align: center; 
+  }
+  
+.conversation-container {
+    flex-grow: 1;
+    width: 700px;
+    max-height: 80vh;
+    margin-top: 50px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.conversation-query, .conversation-response {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-bottom: 30px;
+    max-width: 350px;
+    word-wrap: break-word; 
+}
+
+.conversation-query {
+    padding: 15px 20px;
+    background-color: #27262B;
+    border-radius: 25px;
+    align-self: flex-end;
+}
+
+.conversation-response {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.query-text {
+    margin: 0;
+    border: 0;
+}
+
+.furnichanter-logo {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.conversation-container::-webkit-scrollbar {
+    display: none; 
+}

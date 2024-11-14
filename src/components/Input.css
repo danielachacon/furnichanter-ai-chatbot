@@ -1,0 +1,44 @@
+#input-text {
+    width: 100%;
+    padding: 15px 20px;
+    font-size: 16px;
+    background-color: #27262B;
+    color: rgb(220, 220, 220);
+    border: 1px;
+    border-radius: 30px;
+    box-sizing: border-box;
+    display: block;
+    text-decoration: none;
+}
+
+#input-text:focus {
+    outline: none;
+}  
+
+form {
+    width: 700px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    position: relative;
+}
+
+#upload {
+    background-color: #abaaae;
+    border-radius: 50px;
+    border: 1px;
+    height: 70%;
+    aspect-ratio: 1;
+    position: absolute;
+    right: 0;
+    transform: translateX(-30%);
+    top: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#upload:hover {
+    background-color: #ececec;
+    cursor: pointer;
+}
