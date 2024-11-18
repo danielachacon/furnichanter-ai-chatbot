@@ -5,6 +5,7 @@ import intent_classification
 import greeting
 import furniture_related_query
 import ner
+import recommendation
 
 required_keys = ['STYLE', 'MATERIAL', 'TYPE', 'COLOR']
 
@@ -28,7 +29,7 @@ def conversation():
     print(f"Conversation State: {conversation_state}")
     
     if conversation_state == "furniture_search":
-        missing_keys = session.get('missing_keys', [])
+        keys = session.get('keys', [])
     intent = intent_classification.generate_content(prompt).strip()
     print(f"Intent detected: {intent}")
         
@@ -38,10 +39,9 @@ def conversation():
         session['search_parameters'] = parameters
         print(parameters)
             
-        missing_keys = [key for key in required_keys if key not in parameters]
-        session['missing_keys'] = missing_keys
-        
+        missing_keys = [key for key in required_keys if key not in parameters]        
         response = "Confirming that you are looking for:\n"
+        key_value_dict = {}
         
         response_parts = []
         for key in required_keys:
@@ -49,11 +49,17 @@ def conversation():
                 # If multiple values exist, join them into a string
                 values = ', '.join(parameters[key])
                 response_parts.append(f"{key}: {values}")
-
+                key_value_dict[key] = values
+                
         response += '\n'.join(response_parts)
         
+        session['keys'] = key_value_dict
+        print(session['keys'])
     elif intent == "Affirmation" and conversation_state == "furniture_search":
-        response = "Recommendation System"
+        parameters_dict = session.get('keys', [])
+        print(parameters_dict)
+        parameters_string = ' '.join(str(value) for value in parameters_dict.values())
+        response = recommendation.give_recommendation(parameters_string)
     elif intent == "Negation" and conversation_state == "furniture_search":
         response = "Let's try again, what are you looking for?"
         session.pop('conversation_state', None)
