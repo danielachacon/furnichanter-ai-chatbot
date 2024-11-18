@@ -28,6 +28,7 @@ function Input(props) {
         try {
             const response = await fetch("http://localhost:5500", {
                 method:"POST",
+                credentials: "include",
                 headers: {
                     "Content-Type": "application/json"
                 },
@@ -38,7 +39,7 @@ function Input(props) {
                 ...prevData,
                 {
                     type: "response",
-                    text: responseData.prompt,
+                    text: responseData.response,
                 },
             ]);
             props.setLoading(false);
@@ -62,7 +63,8 @@ function Input(props) {
                 type="text"
                 placeholder="Message Furnichanter"
                 value={props.prompt}
-                onChange={(e) => props.setPrompt(e.target.value)}>
+                onChange={(e) => props.setPrompt(e.target.value)}
+                autoComplete="off">
             </input>
             <button id="upload" disabled={!props.prompt || props.loading}><FaArrowUp style={{ color: 'black' }} /></button>
         </form>

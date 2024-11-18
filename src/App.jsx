@@ -12,6 +12,7 @@ function App() {
     <>
       <Chatbox id="chat"
         conversation={conversation}
+        loading={loading}
       />
       <Input id="textInput"
         prompt={prompt}
